@@ -1,3 +1,5 @@
+# contains only dependencies that the project actually needs 
+
 Flask
 Flask-SQLAlchemy
 Flask-Marshmallow
