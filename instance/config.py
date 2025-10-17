@@ -1,3 +1,5 @@
+# holds environment-specific configs, like API and database keys
+
 import os
 
 class Config:
